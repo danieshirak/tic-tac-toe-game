@@ -15,13 +15,13 @@ description: A command-line implementation of the classic Tic Tac Toe game with 
 ## Game Preview
 
 ### Starting a New Game
-![Game Start](tic-tac-toe game/screenshots/game-start.png)
+![Game Start](tic-tac-toe/screenshots/game-start.png)
 
 ### Gameplay in Action
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](tic-tac-toe/screenshots/gameplay.png)
 
 ### Winning Screen
-![Winning](screenshots/winning.png)
+![Winning](tic-tac-toe/screenshots/winning.png)
 
 ## How to Play
 
@@ -53,11 +53,11 @@ python src/game.py
 ## Project Structure
 ```
 tic-tac-toe/
+├── screenshots/        # Game preview images
 ├── src/
 │   └── game.py        # Main game logic
-├── tests/
-│   └── test_game.py   # Test suite
-└── screenshots/       # Game previews
+└── tests/
+    └── test_game.py   # Test suite
 ```
 
 ## Testing
