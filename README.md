@@ -15,7 +15,7 @@ description: A command-line implementation of the classic Tic Tac Toe game with 
 ## Game Preview
 
 ### Starting a New Game
-![Game Start](screenshots/game-start.png)
+![Game Start](tic-tac-toe game/screenshots/game-start.png)
 
 ### Gameplay in Action
 ![Gameplay](screenshots/gameplay.png)
