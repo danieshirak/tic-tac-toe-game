@@ -24,7 +24,7 @@ Board positions are mapped like a numeric keypad:
 
 ## Project Structure
 ```
-tic-tac-toe/
+tic-tac-toe game/
 ├── src/
 │   └── game.py        # Main game logic
 └── tests/
